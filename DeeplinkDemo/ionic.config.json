@@ -1,0 +1,7 @@
+{
+  "name": "DeeplinkDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
